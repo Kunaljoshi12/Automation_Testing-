@@ -1,1 +1,1 @@
-This repository contains automation testing frameworks, scripts, and utilities designed to improve software testing efficiency and reliability. It includes test cases, reusable functions, and configuration files for automating functional, regression, and integration testing.
+
